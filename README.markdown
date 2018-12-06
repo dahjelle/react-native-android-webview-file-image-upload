@@ -1,3 +1,7 @@
+# NOTICE
+
+Please use [react-native-webview](https://github.com/react-native-community/react-native-webview) instead! While I haven't tested it myself yet, they have added Android file upload support as of v2.10.0 and are likely much better supported.
+
 # React Native Android Image File Upload Webview (camera + file)
 
 This is a demo project based off of the work of several others (such as [this webview file upload sample code](https://github.com/hushicai/ReactNativeAndroidWebView) and [this sample about overriding the built-in webview](https://github.com/cbrevik/webview-native-config-example)) to implement file upload in the React Native Android WebView.
